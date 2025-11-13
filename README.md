@@ -125,7 +125,9 @@ plt.show()
 <img width="397" height="357" alt="image" src="https://github.com/user-attachments/assets/531cb320-53ec-4824-a649-8c7f3febaffa" />
 <img width="290" height="362" alt="image" src="https://github.com/user-attachments/assets/0cb19cfb-796b-4332-82d2-63408c1f26ae" />
 <img width="425" height="363" alt="image" src="https://github.com/user-attachments/assets/3bc33d15-7567-45e2-aefa-6a97dd496ad5" />
+
 ## Result
+
 Thus executed successfully.
 
 
